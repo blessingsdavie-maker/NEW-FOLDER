@@ -16,6 +16,10 @@
     .portrait-placeholder img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center center; filter: contrast(1.04) saturate(.9); }
     .bio-copy h3 { margin: 1.8rem 0 .45rem; color: var(--gold-deep); font-family: var(--display); font-size: 1.35rem; }
     .bio-copy .interest-list { color: var(--gold-deep); font-size: .9rem; font-weight: 600; line-height: 1.8; }
+    @media (max-width: 800px) {
+      .intro .bio-copy { padding-bottom: 2rem; }
+      .intro .interest-list { margin-bottom: 0; padding: 1rem; border: 1px solid var(--line); background: var(--sand); }
+    }
   </style>
 </head>
 <body>
