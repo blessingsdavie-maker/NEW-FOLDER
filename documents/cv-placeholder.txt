@@ -1,0 +1,12 @@
+CURRICULUM VITAE PLACEHOLDER
+
+Replace this file with the final CV PDF or Word document, then update the link in portfolio.html if its filename changes.
+
+Suggested sections:
+- Contact information
+- Professional profile
+- Employment history
+- Education and professional qualifications
+- Publications and research
+- Certifications and professional development
+- Referees
